@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Shiyu Xu</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>  The development of &#34;Michael Apple&#39;s Questions&#34; and its enlightenment to curriculum theory. Education Review, 2(3), 473-477. (in Chinese)</title>
+      <link>/publication/conference-paper-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and Enlightenment of American TRAILS Student Information Literacy Evaluation Tool. Educational measurement and evaluation,11,42-49.10.16518/j.cnki.emae .2020.11.007 (in Chinese)</title>
+      <link>/publication/conference-paper-2-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-2-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models and Practice Strategies for Digital Teaching Materials. Teaching and management, 12, 73-76. (in Chinese)</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Race between Education and Technology, written by Claudia Goldin and Lawrence F. Katz. Beijing International Review of Education, 2(3), 473-477.</title>
+      <link>/publication/conference-paper2-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper2-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
